@@ -1,7 +1,7 @@
 # Hi there, This side Gauri ^^
 B.Tech CSE(AI) Student
 
-#Intro
+## Intro
 I'm a Computer Science student interested in Data Analytics,
 Product Analytics, and AI.
 
